@@ -25,3 +25,5 @@ NPSS2 представляет из себя дисплей, собранный 
 Предшественником NPSS2, является ранняя версия NPSS1, исключена из разработки
 из-за слишком широкого разрешения, плохо подходящего под символы.
 Разрешение NPSS1 - 6x6, всего пикселей - 43 (36+7).
+NPSS2 https://www.tinkercad.com/things/bfckQ8tvt01?sharecode=Izk0L_Wi4lIlMWcGHPyhphDm0I6FvAiKmG4a4PnYsII
+NPSS1 https://www.tinkercad.com/things/boFYJv4Ol9w?sharecode=essvnIn4Yc0VXRpqQV0Pz30Bf1xsaEu1vq9Hx5WNMfw
